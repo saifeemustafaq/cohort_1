@@ -37,7 +37,7 @@ This repository is made to record the experiences and things learned by the ment
 
 - [ ] What are the Cloud deployment models (hint: Public, Private, Hybrid, Community)
 
-- [] What are the Types of cloud services (hint: IaaS | SaaS | PaaS)
+- [ ] What are the Types of cloud services (hint: IaaS | SaaS | PaaS)
 
 - [ ] What is a region?
 
