@@ -8,7 +8,7 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
-> # **Task 1️**
+> # **Task**
 
 ---
 
