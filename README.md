@@ -10,8 +10,6 @@ This repository is made to record the experiences and things learned by the ment
 
 # Task 1
 
-Today's task:
-
 ---
 
 [x] Create an account on **[Outlook](https://outlook.live.com/)** if not already done.
