@@ -3,12 +3,12 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
-# Useful Links
+# Useful Links 🔗
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ---
 
-> # **Task 1**
+> # **Task 1️**
 
 ---
 
