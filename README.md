@@ -3,6 +3,13 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
+# Aims
+1. Improve knowledge in the cloud computing domain
+2. Improve Technical Writing skills
+3. Get used to GitHub
+
+---
+
 # Useful Links 🔗
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
 
